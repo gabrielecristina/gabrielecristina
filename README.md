@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho como Engenheira de Software na área de sustentação
-- 🌱 Estudando Back-End com Java e Spring Boot
+- 🖥️ Atualmente trabalho como Engenheira de Software na área de sustentação
+- 🧑‍🎓 Estudando Back-End com Java e Spring Boot
 
 <div align="center">
   <a href="https://github.com/gabrielecristina">
